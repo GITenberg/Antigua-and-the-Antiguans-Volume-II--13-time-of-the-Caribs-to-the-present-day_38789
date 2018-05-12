@@ -1,0 +1,27 @@
+_repo: Antigua-and-the-Antiguans-Volume-II--13-time-of-the-Caribs-to-the-present-day_38789
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lanaghan, Mrs.
+    alias: Flannighan, Mrs.
+    gutenberg_agent_id: '44688'
+    url: http://www.gutenberg.org/2009/agents/44688
+description: ''
+gutenberg_issued: '2012-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antigua -- History'
+- !lcsh 'Antigua -- Description and travel'
+- !lcc 'F2001'
+title: "Antigua and the Antiguans, Volume 2 (of 2)\r\nA full account of the colony\
+  \ and its inhabitants from the time of the Caribs to the present day"
+url: http://www.gutenberg.org/ebooks/38789
