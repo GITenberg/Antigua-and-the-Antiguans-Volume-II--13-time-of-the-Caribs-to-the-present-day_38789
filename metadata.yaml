@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '44688'
     url: http://www.gutenberg.org/2009/agents/44688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38789#Antigua-and-the-Antiguans-Volume-II--13-time-of-the-Caribs-to-the-present-day
 gutenberg_issued: '2012-02-07'
 gutenberg_type: Text
 identifiers:
